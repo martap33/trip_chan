@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="viachannels" />
+              <option name="title_text" value="world_short" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1246,26 +1246,24 @@
           <links>
             <slidelink slideid="_player.62VQZ6mEvgK.65argvmjwWR" displaytext="epic 1" expand="false" type="slide" />
             <slidelink slideid="_player.62VQZ6mEvgK.6X7B3qtKLk6" displaytext="EPIC_POWTORKA" expand="false" type="slide" />
-            <slidelink slideid="_player.67a5sVyMUGL.6m28rrIzqNH" displaytext="HISTORY_POWTORKA" expand="false" type="slide" />
-            <slidelink slideid="_player.5bjoUf0s1uz.61TSqO5CeuY" displaytext="explore_POWTORKA" expand="false" type="slide" />
-            <slidelink slideid="_player.5mUcInYzyFU.69Eqy1gCDWL" displaytext="nature_POWTORKA" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.67a5sVyMUGL" displaytext="history" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.67a5sVyMUGL.5rsfiDbFbod" displaytext="history 1" expand="false" type="slide" />
+            <slidelink slideid="_player.67a5sVyMUGL.6m28rrIzqNH" displaytext="HISTORY_POWTORKA" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5bjoUf0s1uz" displaytext="explore" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5bjoUf0s1uz.5j4PPq1B6yL" displaytext="explore 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5bjoUf0s1uz.6AMMdbNAQIp" displaytext="explore 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5bjoUf0s1uz.61TSqO5CeuY" displaytext="explore_POWTORKA" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5mUcInYzyFU" displaytext="nature" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5mUcInYzyFU.5eV9BGay2Wy" displaytext="nature 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5mUcInYzyFU.6Oq8JmPxDda" displaytext="nature 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5mUcInYzyFU.69Eqy1gCDWL" displaytext="nature_POWTORKA" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="" displaytext="argumenty" expand="true" type="slide" />
